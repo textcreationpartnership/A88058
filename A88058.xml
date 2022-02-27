@@ -1,0 +1,286 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letters from Ireland, relating the several great successes it hath pleased God to give unto the Parliaments forces there, in the taking of Drogheda, Trym, Dundalk, Carlingford, and the Nury. Together with a list of the chief commanders, and the number of the officers and soldiers slain in Drogheda. Die Martis, 2 Octobr. 1649. Ordered by the Commons assembled in Parliament, that the several letters from the Lord Lieutenant of Ireland, together with so much of Colonel Venables letter as concerns the successes in Ireland, be forthwith printed and published. Hen: Scobell, Cleric. Parliamenti.</title>
+            <author>Ireland. Lord Lieutenant (1649-1650 : Cromwell)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88058</idno>
+            <idno type="STC">Wing L1778</idno>
+            <idno type="STC">Thomason E575_7</idno>
+            <idno type="STC">ESTC R202725</idno>
+            <idno type="EEBO-CITATION">99862919</idno>
+            <idno type="PROQUEST">99862919</idno>
+            <idno type="VID">115099</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88058)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115099)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 88:E575[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Letters from Ireland, relating the several great successes it hath pleased God to give unto the Parliaments forces there, in the taking of Drogheda, Trym, Dundalk, Carlingford, and the Nury. Together with a list of the chief commanders, and the number of the officers and soldiers slain in Drogheda. Die Martis, 2 Octobr. 1649. Ordered by the Commons assembled in Parliament, that the several letters from the Lord Lieutenant of Ireland, together with so much of Colonel Venables letter as concerns the successes in Ireland, be forthwith printed and published. Hen: Scobell, Cleric. Parliamenti.</title>
+                  <author>Ireland. Lord Lieutenant (1649-1650 : Cromwell)</author>
+                  <author>Venables, Robert, 1612?-1687.</author>
+                  <author>Cromwell, Oliver, 1599-1658.</author>
+                  <author>England and Wales. Parliament. House of Commons. aut</author>
+               </titleStmt>
+               <extent>20 [i.e. 16] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Field for Edward Husband, printer to the Parliament of England,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Two letters from Oliver Cromwell and one from Robert Venables.</note>
+                  <note>The first leaf bears the order of the Commons for a day of public thanksgiving.</note>
+                  <note>P. 16 misnumbered 20.</note>
+                  <note>Annotation on Thomason copy: "Oct: 3".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Ireland --  History --  1649-1660 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115099:1" rendition="simple:additions"/>
+            <p>LETTERS FROM <hi>IRELAND,</hi> Relating the ſeveral great Succeſſes it hath pleaſed God to give unto the Parliaments Forces there, in the Taking of <hi>Drogheda, Trym, Dundalk, Carling<g ref="char:EOLhyphen"/>ford,</hi> and the <hi>Nury.</hi>
+            </p>
+            <p>Together with a LIST of the Chief Commanders, and the Number of the Officers and Soldiers ſlain in <hi>Drogheda.</hi>
+            </p>
+            <p>
+               <hi>Die Martis, 2</hi> Octobr. <hi>1649.</hi>
+            </p>
+            <p>ORdered by the Commons aſſembled in Parliament, That the ſeveral Letters from the Lord Lieutenant of <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> together with ſo much of Colonel <hi>Venables</hi> Letter as concerns the Succeſſes in <hi>Ireland,</hi> be forthwith printed and publiſhed.</p>
+            <p>
+               <hi>Hen: Scobell, Cleric. Parliamenti.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed by <hi>John Field</hi> for <hi>Edward Huſband,</hi> Printer to the Parliament of <hi>England.</hi> 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:115099:2"/>
+            <pb n="5" facs="tcp:115099:2"/>
+            <div type="letter_proper">
+               <head>For the Honorable <hi>William Lenthal</hi> 
+                  <abbr>Eſq</abbr> Speaker of the Parliament of <hi>England.</hi>
+               </head>
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>
+                  <seg rend="decorInit">Y</seg>Our Army being ſafely arrived at <hi>Dub<g ref="char:EOLhyphen"/>lin,</hi> and the Enemy endeavoring to draw all his Forces together about <hi>Trym</hi> and <hi>Tecroghan</hi> (as my Intelligence gave me;) from whence endeavors were uſed by the Marquis of <hi>Ormond,</hi> to draw <hi>Owen Roe O Neal</hi> with his Forces to his Aſſiſtance, but with what ſucceſs I cannot yet learn. I reſolved after ſome refreſh<g ref="char:EOLhyphen"/>ment taken for our weather beaten Men and Horſes, and accommodations for a march, to take the Field; and accordingly upon Friday the Thirtieth of <hi>Auguſt</hi> laſt, Rendezvouzed with Eight Regiments of Foot, and Six of Horſe, and ſome Troops of Dragoons, three miles on the Northſide of <hi>Dublin;</hi> the Deſign was, To endeavor the Regaining of <hi>Drogheda,</hi> or tempting the Enemy, upon his hazard of the loſs of that place, to fight. Your Army came before the Town upon Munday following, where having pitch<g ref="char:EOLhyphen"/>ed, as ſpeedy courſe as could be was taken to frame our Batteries, which took up the more time, becauſe divers of the Battering Guns were on Ship board: Upon Munday the Ninth of this inſtant, the Bat<g ref="char:EOLhyphen"/>teries began to play; whereupon I ſent Sir <hi>Arthur Aſhton</hi> the then Governor a Summons, To deliver
+<pb n="6" facs="tcp:115099:3"/>the Town to the uſe of the Parliament of <hi>England;</hi> to the which I received no ſatisfactory Anſwer, but proceeded that day to beat down the Steeple of the Church on the Southſide of the Town, and to beat down a Tower not far from the ſame place, which you will diſcern by the Card encloſed: Our Guns not being able to do much that day, It was reſolved to endeavor to do our utmoſt the next day to make Breaches aſſaultable, and by the help of God to Storm them: The places pitched upon, were that part of the Town wall next a Church, called <hi>St. Maries;</hi> which was the rather choſen, becauſe we did hope that if we did enter and poſſeſs that Church, we ſhould be the better able to keep it againſt their Horſe and Foot, until we could make way for the entrance of our Horſe, which we did not conceive that any part of the Town would afford the like ad<g ref="char:EOLhyphen"/>vantage for that purpoſe with this. The Batteries planted were two, one was for that part of the Wall againſt the Eaſt end of the ſaid Church, the other againſt the Wall on the Southſide; being ſomewhat long in Battering, the Enemy made ſix Retrench<g ref="char:EOLhyphen"/>ments, three of them from the ſaid Church to Du<g ref="char:EOLhyphen"/>leek Gate, and three from the Eaſt end of the Church to the Town wall, and ſo backward. The Guns after ſome two or three hundred ſhot, beat down the Corner Tower, and opened two reaſonable good Breaches in the Eaſt and South wall. Upon Tueſday the Tenth of this inſtant, about five of the clock in the evening, we begun the Storm, and after ſome hot Diſpute, we entred about Seven or Eight hun<g ref="char:EOLhyphen"/>dred men, the Enemy diſputing it very ſtifly with
+<pb n="7" facs="tcp:115099:3"/>us; and indeed through the advantages of the place, and the courage God was pleaſed to give the Defen<g ref="char:EOLhyphen"/>ders, our men were forced to retreat quite our of the Breach, not without ſome conſiderable loſs; Colonel <hi>Caſſel</hi> being there ſhot in the Head, whereof he preſently dyed, and divers Soldiers and Officers doing their duty, killed and wound<g ref="char:EOLhyphen"/>ed: There was a Tenalia to flanker the South-wall of the Town, between <hi>Duleek</hi> Gate, and the Corner Tower before mentioned, which our men entred, wherein they found ſome forty or fifty of the Enemy, which they put to the ſword, and this they held; but it being without the Wall, and the Sally part through the Wall into that Tenalia being choaked up, with ſome of the Enemy which were killed in it, it proved of no uſe for our entrance in<g ref="char:EOLhyphen"/>to the Town that way. Although our men that ſtormed the Breaches were forced to recoil, as be<g ref="char:EOLhyphen"/>fore is expreſſed, yet being encouraged to recover their loſs, they made a ſecond attempt, wherein God was pleaſed to animate them, that they got ground of the Enemy, and by the goodneſs of God, forced him to quit his Entrenchments; and after a very hot diſpute, the Enemy having both Horſe and Foot, and we onely Foot with<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n the Wall, the Ene<g ref="char:EOLhyphen"/>my gave ground, and our men became maſters; but of their Retrenchments and the Church, which in<g ref="char:EOLhyphen"/>deed although they made our entrance the more dif<g ref="char:EOLhyphen"/>ficult, yet they proved of excellent uſe to us, ſo that the Enemy could not annoy us with their Horſe, but thereby we had advantage to make good the ground, that ſo we might let in our own Horſe, which ac<g ref="char:EOLhyphen"/>cordingly,
+<pb n="8" facs="tcp:115099:4"/>was done, though with much difficulty; the Enemy retreated divers of them into the Mill-Mount, a place very ſtrong and of difficult acceſs, being exceeding high, having a good graft and ſtrongly Palliſadoed; the Governor Sir <hi>Arthur Aſh<g ref="char:EOLhyphen"/>ton,</hi> and divers conſiderable Officers being there, our men getting up to them, were ordered by me to put them all to the Sword; and indeed being in the heat of action, I forbade them to ſpare any that were in Arms in the Town, and I think that night they put to the ſword about two thouſand men, divers of the Of<g ref="char:EOLhyphen"/>ficers and Soldiers being fled over the Bridge into the other part of the Town, where about One hundred of them poſſeſſed St. <hi>Peters</hi> Church Steeple, ſome the Weſt Gate, and others, a round ſtrong Tower next the Gate, called St. <hi>Sundays:</hi> Theſe being ſummon<g ref="char:EOLhyphen"/>ed to yield to mercy, refuſed; whereupon I ordered the Steeple of St. <hi>Peters</hi> Church to be fired, where one of them was heard to ſay in the midſt of the flames, <hi>God damn me, God confound me, I burn, I burn;</hi> the next day the other two Towers were ſummoned, in one of which was about ſix or ſeven ſcore, but they refuſed to yield themſelves; and we knowing that hunger muſt compel them, ſet onely good Guards to ſecure them from running away, until their ſto<g ref="char:EOLhyphen"/>macks were come down: from one of the ſaid Towers, notwithſtanding their condition, they killed and wounded ſome of our men; when they ſubmitted, their Officers were knockt on the head, and every tenth man of the Soldiers killed, and the reſt Shipped for the <hi>Barbadoes;</hi> the Soldiers in the other Town were all ſpared, as to their
+<pb n="9" facs="tcp:115099:4"/>lives onely, and Shipped likewiſe for the <hi>Barbadoes.</hi> I am perſwaded that this is a righteous Judgement of God upon theſe Barbarous wretches, who have imbrued their hands in ſo much innocent blood, and that it will tend to p<gap reason="illegible" resp="#UOM" extent="6 letters">
+                     <desc>••••••</desc>
+                  </gap> the effuſion of blood for the future, which are the ſatisfactory grounds to ſuch Actions, which o<gap reason="illegible" resp="#UOM" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap>iſe cannot but work re<g ref="char:EOLhyphen"/>morſe and regret. The O<gap reason="illegible" resp="#UOM" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>e<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s and Soldiers of this Gariſon, were the flower of all their Army; and their great expectation was, That our attempting this place, would put fair <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> us; they being confi<g ref="char:EOLhyphen"/>dent of the Reſolution of their men and the advan<g ref="char:EOLhyphen"/>tage of the place; if we had divided our Force into two <gap reason="illegible" resp="#UOM" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>ters, to have Beſieged the North Town and the South Town, we could not have had ſuch a cor<g ref="char:EOLhyphen"/>reſpondency between the two parts of our Army, but that they might have choſen to have brought their Army, and have fought with which part they pleaſed, and at the ſame time have made a Salley with two thouſand men upon us, and have left their walls manned, they having in the Town the numbers ſpe<g ref="char:EOLhyphen"/>cified in this incloſed, but ſome ſay near Four thou<g ref="char:EOLhyphen"/>ſand. Since this great Mercv vouchſafed to us, I ſent a Party of Horſe and Dragoons to <hi>Dund<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>k,</hi> which the Enemy quitted, and we are poſſeſſed of; as alſo another Caſtle they deſerted between <hi>Trym</hi> and <hi>Drogheda,</hi> upon the <hi>Boynes.</hi> I ſent a Party of horſe and Dragoons to a Houſe within five miles of <hi>Trym,</hi> there being then in <hi>Trym</hi> ſome Scots Companies which the Lord of <hi>Ardes</hi> brought to aſſiſt the Lord of <hi>Ormond;</hi> but upon the News of <hi>Drogheda</hi> they ran away, leaving their great Guns behinde
+<pb n="10" facs="tcp:115099:5"/>them, which we alſo have poſſeſſed. And now give me leave to ſay how it comes to paſs that this work is wrought; It was ſet upon ſome of our hearts, that a great thing ſhould be done, not by power, or might, but by the Spirit of God; and is it not ſo clear? That which cauſed your men to Storm ſo couragi<g ref="char:EOLhyphen"/>ouſly, it was the Spirit of God, who gave your men Courage, and took it away again, and gave the Ene<g ref="char:EOLhyphen"/>my Courage, and took it away again, and gave your men Courage again, and therewith this happy Suc<g ref="char:EOLhyphen"/>ceſs; and therefore it is good that God alone have all the Glory. It is is remarkable, that theſe people at the firſt ſet up the Maſs in ſome places of the town that had been Monaſteries; but afterwards grew ſo inſolent, that the laſt Lords day before the Storm, the Proteſtants were thruſt out of the great Church, called <hi>St. Peters,</hi> and they had publique Maſs there; and in this very place near One thouſand of them were put to the Sword, flying thither for ſafety: I believe all their Fryers were knockt on the head pro<g ref="char:EOLhyphen"/>miſcuouſly, but two, the one of which was Father <hi>Peter Taaff</hi> (Brother to the Lord <hi>Taaff</hi>) whom the Soldiers took the next day, and made an end of; the other was taken in the Round Tower, under the re<g ref="char:EOLhyphen"/>pute of Lieutenant, and when he underſtood that the Officers in that Tower had no quarter, he confeſſed he was a Fryer, but that did not ſave him. A great deal of loſs in this buſineſs, fell upon Col: <hi>Hewſon,</hi> Col: <hi>Caſſel,</hi> and Colonel <hi>Ewers</hi> Regiments; Colonel <hi>Ewers</hi> having two Field-Officers in his Regiment ſhot, Colonel <hi>Caſſel</hi> and a Captain of his Regiment ſlain, Colonel <hi>Hewſons</hi> Captain-Lieutenant ſlain; I
+<pb n="11" facs="tcp:115099:5"/>do not think we loſt One hundred men upon the place, though many be wounded. I moſt humbly pray, the Parliament will be pleaſed this Army may be maintained, and that a conſideration may be had of them, and of the carrying on of the Affairs here, as may give a ſpeedy iſſue to this work, to which there ſeems to be a marvellous fair opportuni<g ref="char:EOLhyphen"/>ty offered by God. And although it may ſeem very chargeable to the State of <hi>England</hi> to maintain ſo great a Force, yet ſurely to ſtretch a little for the pre<g ref="char:EOLhyphen"/>ſent, in following Gods Providence, in hope the charge will not be long, I truſt it will not be thought by any (that have not irreconcileable or malicious Principles) unfit for me to move for a conſtant ſup<g ref="char:EOLhyphen"/>ply, which in humane probability, as to outward means, is moſt likely to haſten and perfect this work; and indeed, if God pleaſe to finiſh it here, as he hath done in <hi>England,</hi> the War is like to pay it ſelf. We keep the Field much, our Tents ſheltring us from the wet and cold, but yet the Country ſickneſs overtakes many, and therefore we deſire recruits, and ſome freſh Regiments of Foot may be ſent us; for it is eaſily conceived by what the Gariſons already drink up, what our field Army will come to, if God ſhall give more Gariſons into our hands. Craving pardon for this great trouble, I reſt,</p>
+               <closer>
+                  <signed>Your moſt humble Servant, <hi>O. CROMVVEL.</hi>
+                  </signed>
+                  <dateline>
+                     <hi>Dublin,</hi> 
+                     <date>
+                        <hi>Sept.</hi> 17. 1649.</date>
+                  </dateline>
+                  <pb n="12" facs="tcp:115099:6"/>
+               </closer>
+               <postscript>
+                  <p>
+                     <hi>Since the writing of my Letter, a Major who brought off Forty three Horſe from the Enemy, told me, that it is reported in their Camp, that</hi> Owen Roe <hi>and they are agreed.</hi>
+                  </p>
+               </postscript>
+            </div>
+            <div type="enclosed_list">
+               <list>
+                  <head>A Liſt of the Defendants in <hi>Drogheda.</hi>
+                  </head>
+                  <item>THe Lord of <hi>Ormonds</hi> Regiment, Sir <hi>Edmund Verney,</hi> Lieut: Colonel, 400.</item>
+                  <item>Col: <hi>Bourn,</hi> 400.</item>
+                  <item>Col: <hi>Warren,</hi> 900.</item>
+                  <item>Col: <hi>Wall,</hi> 800.</item>
+                  <item>The Lord of <hi>Weſtmeath,</hi> 200.</item>
+                  <item>Sir <hi>Iames Dillon,</hi> 200.</item>
+                  <item>Horſe, 200.</item>
+               </list>
+            </div>
+         </div>
+         <div type="letter">
+            <pb n="13" facs="tcp:115099:6"/>
+            <div type="letter_proper">
+               <head>For the Honorable <hi>Willaiam Lenthal</hi> 
+                  <abbr>Eſq</abbr> Speaker of the Parliament of <hi>England.</hi>
+               </head>
+               <opener>
+                  <salute>Mr. Speaker,</salute>
+               </opener>
+               <p>I Had not received any accompt from C<gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> (whom I ſent from <hi>Drogheda,</hi> to endeavor the reducing of <hi>Carling<g ref="char:EOLhyphen"/>ford,</hi> and ſo to march Northward, towards a conjunction with Sir <hi>Charls Coot</hi>) until the laſt night. After he came to <hi>Car<g ref="char:EOLhyphen"/>lingford,</hi> having ſummoned the place, both the three C<gap reason="illegible" resp="#UOM" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap>s and the Fort commanding the Harbor, were <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>en<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ed to him; where<g ref="char:EOLhyphen"/>in were about Forty Barrels of Powder, ſeven piece of Canon, about One thouſand Muskets, and five hundred P<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>s wanting twenty. In the entrance into the Harbor, Captain <hi>Fern</hi> aboard your Man of War had ſome danger, being much ſhot at from the Sea Fort, a ballet ſhooting through his main Maſt: The Ca<g ref="char:EOLhyphen"/>ptains entrance into that Harbor, was a conſiderable adventure, and a good ſervice; as alſo was Captain <hi>Brandleys,</hi> who with forty Seamen ſtormed a very ſtrong Tenalia at <hi>Drogheda,</hi> and helped to take it, for which he deſerves an owning by you. <hi>Venables</hi> marched from <hi>Carlingford,</hi> with a Party of Horſe and Dragoons to the <hi>Nury,</hi> leaving the Foot to come up after him: He ſummoned the place, and it was yielded before his Foot came up to him. Some other Informations I have received from him, which promiſe well towards your Northern Intereſt; which if well proſecuted, will (I truſt through God) render you a good accompt of thoſe parts. I have ſent thoſe things to be preſented to the Councel of State for their conſideration. I pray God as theſe Mercies flow in upon you, he will give you an heart to im<g ref="char:EOLhyphen"/>prove them to his Glory alone, becauſe he alone is the Author of them, and of all the goodneſs, patience and long-ſuffering extended towards you. Your Army is marched, and I believe this night lieth at <hi>Arctlo,</hi> in the County of <hi>Wicklo,</hi> by the Sea ſide, between thirty and forty miles from this place: I am this day by Gods bleſſing going towards it. I crave your pardon for this trouble, and reſt,</p>
+               <closer>
+                  <signed>Your moſt humble Servant, <hi>O. Cromwel.</hi>
+                  </signed>
+                  <dateline>
+                     <hi>Dublin,</hi> 
+                     <date>
+                        <hi>Sep.</hi> 27. 1649.</date>
+                  </dateline>
+                  <pb n="6" facs="tcp:115099:7"/>
+               </closer>
+               <postscript>
+                  <p>I deſire the Supplies moved for, may be haſtned: I am verily perſwaded, though the burthen be great, yet it is for your Ser<g ref="char:EOLhyphen"/>vice. If the Gariſons we take, ſwallow up your men, how ſhall we be able to keep the Field? who knows but the Lord may pity <hi>Englands</hi> ſufferings, and make a ſhort work of this? it is in his hand to do it, and therein onely your Servants rejoyce.</p>
+                  <p>I humbly preſent the condition of Captain <hi>George Jenkins</hi> his widow: He dyed preſently after <hi>Tredagh</hi> ſtorm; his widow is in great want.</p>
+               </postscript>
+            </div>
+            <div type="enclosed_list">
+               <list>
+                  <head>A Liſt of the Officers and Soldiers ſlain at the ſtorming of <hi>Drogheda.</hi>
+                  </head>
+                  <item>SIr <hi>Arthur Aſhton</hi> Governor.</item>
+                  <item>Sir <hi>Edmond Verney</hi> Lieutenant Col: to <hi>Ormonds</hi> Regiment.</item>
+                  <item>Col: <hi>Fleming,</hi> of Horſe.</item>
+                  <item>Lieutenant Col: <hi>Finglaſs,</hi> of Horſe.</item>
+                  <item>Major <hi>Fitzgerald,</hi> of Horſe.</item>
+                  <item>Eight Captains of Horſe.</item>
+                  <item>Eight Lieutenants of Horſe.</item>
+                  <item>Eight Cornets of Horſe.</item>
+                  <item>Col: <hi>Warren,</hi> of Foot, with their Lieutenants, Majors, &amp;c.</item>
+                  <item>Col: <hi>Walls,</hi> of Foot, with their Lieutenants, Majors, &amp;c.</item>
+                  <item>Col: <hi>Byrne,</hi> of Foot, with their Lieutenants, Majors, &amp;c.</item>
+                  <item>The Lord <hi>Taaffs</hi> brother, an <hi>Auguſtine Fryer.</hi>
+                  </item>
+                  <item>Forty four Captains, and all their Lieutenants, Enſigns, &amp;c.</item>
+                  <item>Two hundred and twenty Reformado's and Troopers.</item>
+                  <item>Two thouſand Five hundred-Foot Soldiers, beſides Staff-Officers, Chyrurgeons, &amp;c. and many Inhabitants.</item>
+               </list>
+            </div>
+         </div>
+         <div type="letter">
+            <pb n="15" facs="tcp:115099:7"/>
+            <head>For His Excellency, The Lord Lieutenant of <hi>Ireland.</hi>
+            </head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>IN obſervance of your Excellencies Orders, I advanced to <hi>Carlingford</hi> upon Tueſday laſt, and at the ſame inſtant, Captain <hi>Ferns</hi> came into the Har<g ref="char:EOLhyphen"/>bors mouth with his Frigot; and upon the Signal agreed upon betwixt us, came in with much gallantry and reſolution, indured many ſhots, whereof one ſplit his main Maſt, and in the Haven took a ſmall <hi>Wexford</hi> Veſſel; And in the three Caſtles and the Sea-Fort, we found ſeven piece of Ordinance, near forty Bar<g ref="char:EOLhyphen"/>rels of Powder, and as many of ſmall ſhot, above a thouſand Muskets, and four hundred and eighty Pikes (the greateſt ſtore in <hi>Ulſter</hi>) but little Proviſion; the next day I marched with ſome Horſe and Dra<g ref="char:EOLhyphen"/>goons to the <hi>Nury</hi> and ſummoned the place, which alſo yielded immediately before the Foot could come. Many difficulties encounter us, yet by Gods aſſiſtance, I reſolve to break through all, to follow the leading Providence of that Divine Hand, which now ſeems to guide us forward; for except we march on, the Scots reſolve to put Iriſh into <hi>Carrickfergus, Belfaſt,</hi> and <hi>Liſnegarvy,</hi> becauſe their own Nation refuſes them both aſſiſtance and Proviſions; and if we prevent not the Iriſh, it will kindle a new War in thoſe Parts, more bloody then what we have yet taſted of; which to prevent, ſhall be my utmoſt and chief endeavor. <hi>Monro</hi> hath already put ſome Iriſh into <hi>Colrain:</hi> I have ſent ſeveral Meſſengers to Sir <hi>Charls Coot,</hi> to
+<pb n="20" facs="tcp:115099:8"/>know his pleaſure, to acquaint him with my reſolutions for this work: we are all full of (not improbable) hopes of Divine aſſiſtance in this work; which if your Ex<g ref="char:EOLhyphen"/>cellency pleaſe, but to cheriſh us in, may through Gods aſſiſtance, prove a moſt happy undertaking, which is the Prayer of, My Lord,</p>
+            <closer>
+               <signed>Your Excellencies moſt humble Servant, <hi>R. VENABLES.</hi>
+               </signed>
+               <dateline>
+                  <hi>Nury</hi> 
+                  <date>
+                     <hi>Sept.</hi> 22. 1649.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <p>We had in the Caſtle of this place, ſixty Muskets, and five Bar<g ref="char:EOLhyphen"/>rels of Powder.</p>
+            </postscript>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:115099:8" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
